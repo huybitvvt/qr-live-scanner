@@ -1,0 +1,331 @@
+{
+  "exit_code": 0,
+  "source": "synthetic-video",
+  "duration_seconds": 50,
+  "codes": [
+    [
+      "QR-LIVE-001",
+      "ZXing-C++"
+    ],
+    [
+      "QR-LIVE-002",
+      "ZXing-C++"
+    ],
+    [
+      "QR-LIVE-003",
+      "ZXing-C++"
+    ],
+    [
+      "QR-LIVE-004",
+      "ZXing-C++"
+    ],
+    [
+      "QR-LIVE-005",
+      "ZXing-C++"
+    ],
+    [
+      "QR-LIVE-006",
+      "ZXing-C++"
+    ],
+    [
+      "QR-LIVE-007",
+      "ZXing-C++"
+    ],
+    [
+      "QR-LIVE-008",
+      "ZXing-C++"
+    ]
+  ],
+  "cpu_percent_mean": 5.35,
+  "rss_mb_min": 70.6,
+  "rss_mb_max": 193.3,
+  "last": {
+    "uptime_seconds": 49,
+    "cpu_percent": 0.1,
+    "rss_mb": 70.6,
+    "camera_restarts": 0,
+    "decoder_restarts": 0,
+    "last_decode_ms": 6.9,
+    "scans": 402,
+    "fallbacks": 17,
+    "running": false
+  },
+  "samples": [
+    {
+      "uptime_seconds": 0,
+      "cpu_percent": 92.2,
+      "rss_mb": 58.1,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": null,
+      "scans": 0,
+      "fallbacks": 0,
+      "running": false
+    },
+    {
+      "uptime_seconds": 2,
+      "cpu_percent": 9.6,
+      "rss_mb": 189.0,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.4,
+      "scans": 15,
+      "fallbacks": 2,
+      "running": true
+    },
+    {
+      "uptime_seconds": 4,
+      "cpu_percent": 7.4,
+      "rss_mb": 189.5,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.9,
+      "scans": 35,
+      "fallbacks": 3,
+      "running": true
+    },
+    {
+      "uptime_seconds": 6,
+      "cpu_percent": 7.1,
+      "rss_mb": 189.5,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.7,
+      "scans": 56,
+      "fallbacks": 3,
+      "running": true
+    },
+    {
+      "uptime_seconds": 8,
+      "cpu_percent": 7.9,
+      "rss_mb": 189.5,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 7.2,
+      "scans": 76,
+      "fallbacks": 5,
+      "running": true
+    },
+    {
+      "uptime_seconds": 10,
+      "cpu_percent": 6.1,
+      "rss_mb": 189.0,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.4,
+      "scans": 97,
+      "fallbacks": 5,
+      "running": true
+    },
+    {
+      "uptime_seconds": 12,
+      "cpu_percent": 7.2,
+      "rss_mb": 189.0,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 5.5,
+      "scans": 116,
+      "fallbacks": 6,
+      "running": true
+    },
+    {
+      "uptime_seconds": 14,
+      "cpu_percent": 6.1,
+      "rss_mb": 189.0,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.3,
+      "scans": 137,
+      "fallbacks": 7,
+      "running": true
+    },
+    {
+      "uptime_seconds": 16,
+      "cpu_percent": 6.0,
+      "rss_mb": 193.3,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 4.1,
+      "scans": 157,
+      "fallbacks": 7,
+      "running": true
+    },
+    {
+      "uptime_seconds": 18,
+      "cpu_percent": 6.9,
+      "rss_mb": 188.9,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 5.6,
+      "scans": 177,
+      "fallbacks": 9,
+      "running": true
+    },
+    {
+      "uptime_seconds": 20,
+      "cpu_percent": 7.1,
+      "rss_mb": 189.5,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 4.4,
+      "scans": 197,
+      "fallbacks": 9,
+      "running": true
+    },
+    {
+      "uptime_seconds": 22,
+      "cpu_percent": 7.1,
+      "rss_mb": 189.9,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 40.5,
+      "scans": 218,
+      "fallbacks": 11,
+      "running": true
+    },
+    {
+      "uptime_seconds": 24,
+      "cpu_percent": 7.5,
+      "rss_mb": 189.5,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 7.8,
+      "scans": 238,
+      "fallbacks": 11,
+      "running": true
+    },
+    {
+      "uptime_seconds": 26,
+      "cpu_percent": 7.1,
+      "rss_mb": 188.9,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 24.2,
+      "scans": 258,
+      "fallbacks": 12,
+      "running": true
+    },
+    {
+      "uptime_seconds": 28,
+      "cpu_percent": 7.1,
+      "rss_mb": 188.9,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 5.9,
+      "scans": 279,
+      "fallbacks": 13,
+      "running": true
+    },
+    {
+      "uptime_seconds": 30,
+      "cpu_percent": 6.1,
+      "rss_mb": 189.6,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.7,
+      "scans": 299,
+      "fallbacks": 13,
+      "running": true
+    },
+    {
+      "uptime_seconds": 32,
+      "cpu_percent": 6.9,
+      "rss_mb": 189.1,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 4.4,
+      "scans": 320,
+      "fallbacks": 15,
+      "running": true
+    },
+    {
+      "uptime_seconds": 34,
+      "cpu_percent": 5.9,
+      "rss_mb": 190.1,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 8.0,
+      "scans": 340,
+      "fallbacks": 15,
+      "running": true
+    },
+    {
+      "uptime_seconds": 36,
+      "cpu_percent": 5.7,
+      "rss_mb": 189.1,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 3.7,
+      "scans": 360,
+      "fallbacks": 16,
+      "running": true
+    },
+    {
+      "uptime_seconds": 38,
+      "cpu_percent": 7.1,
+      "rss_mb": 189.1,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.1,
+      "scans": 381,
+      "fallbacks": 17,
+      "running": true
+    },
+    {
+      "uptime_seconds": 40,
+      "cpu_percent": 6.7,
+      "rss_mb": 187.0,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.5,
+      "scans": 401,
+      "fallbacks": 17,
+      "running": true
+    },
+    {
+      "uptime_seconds": 42,
+      "cpu_percent": 0,
+      "rss_mb": 70.6,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.9,
+      "scans": 402,
+      "fallbacks": 17,
+      "running": false
+    },
+    {
+      "uptime_seconds": 44,
+      "cpu_percent": 0.1,
+      "rss_mb": 70.6,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.9,
+      "scans": 402,
+      "fallbacks": 17,
+      "running": false
+    },
+    {
+      "uptime_seconds": 46,
+      "cpu_percent": 0.1,
+      "rss_mb": 70.6,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.9,
+      "scans": 402,
+      "fallbacks": 17,
+      "running": false
+    },
+    {
+      "uptime_seconds": 49,
+      "cpu_percent": 0.1,
+      "rss_mb": 70.6,
+      "camera_restarts": 0,
+      "decoder_restarts": 0,
+      "last_decode_ms": 6.9,
+      "scans": 402,
+      "fallbacks": 17,
+      "running": false
+    }
+  ],
+  "screenshot": true
+}

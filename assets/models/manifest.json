@@ -1,0 +1,11 @@
+{
+  "repository": "opencv/qrcode_wechatqrcode",
+  "revision": "b1af2a783943be8f52303c65eafda80ff7447462",
+  "files": {
+    "detect_2021nov.prototxt": "e8acfc395caf443a47f15686a9b9207b36cb8f7e6ceb8fbaf6466665e68a9466",
+    "detect_2021nov.caffemodel": "cc49b8c9babaf45f3037610fe499df38c8819ebda29e90ca9f2e33270f6ef809",
+    "sr_2021nov.prototxt": "8ae41acba97e8b4a8e741ee350481e49b8e01d787193f470a4c95ee1c02d5b61",
+    "sr_2021nov.caffemodel": "e5d36889d8e6ef2f1c1f515f807cec03979320ac81792cd8fb927c31fd658ae3",
+    "LICENSE": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+  }
+}
